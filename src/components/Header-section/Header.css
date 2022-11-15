@@ -1,0 +1,182 @@
+.container1{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 25px 40px;
+}
+#metabnb_logo{
+    position: left;
+    margin-right: 80px;
+}
+.headerlist ul li {
+    display: inline;
+    padding: 25px;
+    width: 70%;
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: none;
+    list-style-type: none;
+}
+#click{
+    text-decoration: none;
+    color: #434343;
+}
+#click1{
+    position: right;
+    text-decoration: none;
+    width: 80%;
+    margin-left: 130px;
+    padding: 12px;
+    background-color: #A02279;
+    color: #FFFFFF;
+    border: 1px solid #A02279;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.hamburger{
+    display: none;
+}
+.mobileMenu{
+    display: none;
+}
+.mobileMenu-bottom{
+    display: none;
+}
+@media screen and (max-width: 768px){
+    .container1{
+        width: 100%;
+        margin: 25px 65px;
+    }
+    .headerlist ul li{
+        display: none;
+    }
+    #click1{
+        display: none;
+    }
+    .hamburger{
+        display: block;
+        font-size: 20px;
+        position: right;
+        margin-left: 260px;
+        margin-top: 10px;
+    }
+    .mobileMenu{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 60%;
+        top: -100vh;
+        left: 0;
+        justify-content: space-between;
+        position: absolute;
+        background-color: lightgrey;
+        background-size:cover;
+        background-attachment: fixed;
+        opacity: 0.5;
+        transition: all 0.5s ease;
+    }
+    .mobileMenu.active{
+        top: 80px;
+        opacity: 1;
+        z-index: 1;
+        transition: all 0.6s ease;
+    }
+    .mobileList{
+        margin: 1rem o;
+    }
+    .mobileMenu li{
+        margin: 0 1rem;
+        border-bottom: 1px solid #434343;
+        padding: 1.2rem 1rem;
+        list-style-type: none;
+    }
+    .mobileMenu-bottom{
+        display: block;
+        width: 100%;
+        margin-bottom: 200px;
+    }
+    #click9{
+        text-decoration: none;
+    }
+    #click7{
+    text-decoration: none;
+    width: 90%;
+    margin: 55px;
+    padding: 12px;
+    background-color: #A02279;
+    color: #FFFFFF;
+    border: 1px solid #A02279;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    }
+}
+@media screen and (max-width: 480px){
+    .container1{
+        width: 100%;
+        margin: 25px 35px;
+    }
+    .headerlist ul li{
+        display: none;
+    }
+    #click1{
+        display: none;
+    }
+    .hamburger{
+        display: block;
+        font-size: 20px;
+        position: right;
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .mobileMenu{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 60%;
+        top: -100vh;
+        left: 0;
+        justify-content: space-between;
+        position: absolute;
+        background-color: lightgrey;
+
+        opacity: 0.5;
+        transition: all 0.5s ease;
+    }
+    .mobileMenu.active{
+        top: 80px;
+        opacity: 1;
+        z-index: 1;
+        transition: all 0.6s ease;
+    }
+    .mobileList{
+        margin: 1rem o;
+    }
+    .mobileMenu li{
+        margin: 0 1rem;
+        border-bottom: 1px solid #434343;
+        padding: 1.2rem 1rem;
+        list-style-type: none;
+    }
+    .mobileMenu-bottom{
+        display: block;
+        width: 100%;
+        margin-bottom: 200px;
+    }
+    #click9{
+        text-decoration: none;
+    }
+    #click7{
+    text-decoration: none;
+    width: 85%;
+    margin: 55px 100px 55px 55px;
+    padding: 12px;
+    background-color: #A02279;
+    color: #FFFFFF;
+    border: 1px solid #A02279;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: 400;
+    }
+}
