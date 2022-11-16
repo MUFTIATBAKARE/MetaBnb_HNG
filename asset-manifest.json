@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/MetaBnb_HNG/static/css/main.13ee9a19.css",
+    "main.js": "/MetaBnb_HNG/static/js/main.56d6ec97.js",
+    "static/media/NFTs.svg": "/MetaBnb_HNG/static/media/NFTs.37e0315bcb8f8525cb287d80ee1bcfc3.svg",
+    "static/media/top_images.svg": "/MetaBnb_HNG/static/media/top_images.26235f4c1bcacc822da6088d0f5fa06f.svg",
+    "static/media/adventure_3.svg": "/MetaBnb_HNG/static/media/adventure_3.4a8d18d6a1537980b2b8ea4cc531497b.svg",
+    "static/media/adventure_15.svg": "/MetaBnb_HNG/static/media/adventure_15.2a9ad807cdc1389f10179deefebec0c2.svg",
+    "static/media/adventure_2.svg": "/MetaBnb_HNG/static/media/adventure_2.fccd5e0160cd3694f9c081b0dad60b2e.svg",
+    "static/media/adventure_14.svg": "/MetaBnb_HNG/static/media/adventure_14.df0d5bbf81c9793ebb7f8ad538df205e.svg",
+    "static/media/adventure_4.svg": "/MetaBnb_HNG/static/media/adventure_4.b8a62779248d49c05b0b17bfa83f6668.svg",
+    "static/media/adventure_13.svg": "/MetaBnb_HNG/static/media/adventure_13.85cc1df50838d84c7af35a618a7d4a6c.svg",
+    "static/media/adventure_9.svg": "/MetaBnb_HNG/static/media/adventure_9.d42d5641cd1e05ec4c53048da7cda1ca.svg",
+    "static/media/adventure_10.svg": "/MetaBnb_HNG/static/media/adventure_10.b4884443ccaa65f30cf61cd4917a390f.svg",
+    "static/media/adventure_1.svg": "/MetaBnb_HNG/static/media/adventure_1.c4f45a1d85bded50f9bb59c8c6accfe9.svg",
+    "static/media/adventure_12.svg": "/MetaBnb_HNG/static/media/adventure_12.4efb3fb2cd6d67743f87c205230d537c.svg",
+    "static/media/adventure_6.svg": "/MetaBnb_HNG/static/media/adventure_6.620dea3a92c0691b56ce4108b690471c.svg",
+    "static/media/adventure_8.svg": "/MetaBnb_HNG/static/media/adventure_8.0efbd6786442948c361b4087fa218178.svg",
+    "static/media/adventure_11.svg": "/MetaBnb_HNG/static/media/adventure_11.427910df57c2c5a7a8f87754564a4d0a.svg",
+    "static/media/adventure_16.svg": "/MetaBnb_HNG/static/media/adventure_16.c9b76aa4eeb4c14bc1ce6cb9e2278e92.svg",
+    "static/media/adventure_7.svg": "/MetaBnb_HNG/static/media/adventure_7.d956c58bac35218dffe594b90c79a736.svg",
+    "static/media/adventure_5.svg": "/MetaBnb_HNG/static/media/adventure_5.5fef58c697cca9798619f9a1763cd37e.svg",
+    "static/media/modal_metamask.svg": "/MetaBnb_HNG/static/media/modal_metamask.97b57d061b6329a303ea874f98a86fb8.svg",
+    "static/media/modalWallet.svg": "/MetaBnb_HNG/static/media/modalWallet.25f31a6f9b1ea3bd4ff4e14080ab54b7.svg",
+    "static/media/metamask.svg": "/MetaBnb_HNG/static/media/metamask.fb52934db13925cb94877c2a07d73fe9.svg",
+    "static/media/opensea.svg": "/MetaBnb_HNG/static/media/opensea.cfd1ca6b48614b8e5c1fac5ac3688b16.svg",
+    "static/media/metabnblogo.svg": "/MetaBnb_HNG/static/media/metabnblogo.f9df141788844d2f7e631ee8e78929d9.svg",
+    "static/media/mbtoken.svg": "/MetaBnb_HNG/static/media/mbtoken.6a2427bee120a728c62147161737f2d5.svg",
+    "static/media/white_metabnb_logo.svg": "/MetaBnb_HNG/static/media/white_metabnb_logo.69a97a8cf7498387c85734f13405b3b3.svg",
+    "index.html": "/MetaBnb_HNG/index.html",
+    "main.13ee9a19.css.map": "/MetaBnb_HNG/static/css/main.13ee9a19.css.map",
+    "main.56d6ec97.js.map": "/MetaBnb_HNG/static/js/main.56d6ec97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13ee9a19.css",
+    "static/js/main.56d6ec97.js"
+  ]
+}
